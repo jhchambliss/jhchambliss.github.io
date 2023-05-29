@@ -124,20 +124,21 @@ nav a {
     display: flex;
     justify-content: center;
     text-align: center;
-    font-size: 1.2em
+    font-size: 1.2em;
 }
 .link {
     background-color: #ACC1C1;
     margin: 0 1em;
-    padding: .5em;
+    padding: .2em;
     flex: 20%;
     border-radius: 10px;
 }
 #internal_nav .blurb {
     text-align: center;
-    margin: 30px 10%;
+/*     margin: 30px 10%; */
     font-size: 1.3em;
     width: 70%;
+    line-height: 0.8;
 }
 .link a {
     font-weight: bold;
