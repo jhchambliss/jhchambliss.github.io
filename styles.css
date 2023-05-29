@@ -217,6 +217,23 @@ a.connect {
     text-align: center;
 } 
 
+/* ------------EMAIL RESPONSE --------------- */
+.response .link {
+    background-color: #ACC1C1;
+    margin: 0 1em;
+    padding: .2em;
+    border-radius: 10px;
+    text-align: center;
+    justify-content: center;
+}
+.response .blurb {
+    text-align: center;
+/*     margin: 30px 10%; */
+    font-size: 1.5em;
+/*     width: 70%; */
+    line-height: 1.8;
+}
+
 /* ------------ABOUT --------------- */
 .intro_img img {
     width: 100%;
