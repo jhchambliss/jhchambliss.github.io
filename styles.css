@@ -135,7 +135,7 @@ nav a {
 }
 #internal_nav .blurb {
     text-align: center;
-/*     margin: 30px 10%; */
+    margin: 30px 10%;
     font-size: 1.3em;
     width: 70%;
     line-height: 0.8;
@@ -219,9 +219,10 @@ a.connect {
 
 /* ------------EMAIL RESPONSE --------------- */
 .response .link {
+    display: flex;
     background-color: #ACC1C1;
 /*     margin: 0 1em; */
-    padding: .2em;
+    padding: .2em .5em;
     border-radius: 10px;
     text-align: center;
     justify-content: center;
@@ -229,8 +230,9 @@ a.connect {
 	
 }
 .response .blurb {
+    font-family: 'Amatic SC', cursive;
     text-align: center;
-/*     margin: 30px 10%; */
+    margin: 30px 10%;
     font-size: 1.5em;
 /*     width: 70%; */
     line-height: 1.8;
