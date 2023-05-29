@@ -124,7 +124,7 @@ nav a {
     display: flex;
     justify-content: center;
     text-align: center;
-    font-size: 1.4em
+    font-size: 1.2em
 }
 .link {
     background-color: #ACC1C1;
@@ -135,9 +135,9 @@ nav a {
 }
 #internal_nav .blurb {
     text-align: center;
-    margin: 30px 30%;
+    margin: 30px 10%;
     font-size: 1.3em;
-    width: 50%;
+    width: 70%;
 }
 .link a {
     font-weight: bold;
