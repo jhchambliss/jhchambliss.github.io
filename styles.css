@@ -220,11 +220,13 @@ a.connect {
 /* ------------EMAIL RESPONSE --------------- */
 .response .link {
     background-color: #ACC1C1;
-    margin: 0 1em;
+/*     margin: 0 1em; */
     padding: .2em;
     border-radius: 10px;
     text-align: center;
     justify-content: center;
+    width: 20%;
+	
 }
 .response .blurb {
     text-align: center;
