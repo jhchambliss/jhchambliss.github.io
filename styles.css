@@ -123,11 +123,12 @@ nav a {
 .links {
     display: flex;
     justify-content: center;
+    font-size: 1.3em
     text-align: center;
 }
 .link {
     background-color: #ACC1C1;
-    margin: 0 1em;
+    margin: 0 1.5em;
     padding: 1em;
     flex: 20%;
     border-radius: 10px;
