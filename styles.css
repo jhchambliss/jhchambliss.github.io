@@ -102,8 +102,10 @@ nav a {
 }
 .intro .blurb {
     order: 1;
-    width: 60%;
+    width: 50%;
     margin-right: 20px;
+    font-size: 1.3em;
+    text-align: center;
 }
 .animation {
     position: relative;
