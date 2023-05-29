@@ -102,10 +102,8 @@ nav a {
 }
 .intro .blurb {
     order: 1;
-    width: 50%;
+    width: 60%;
     margin-right: 20px;
-    font-size: 1.3em;
-    text-align: center;
 }
 .animation {
     position: relative;
@@ -135,8 +133,10 @@ nav a {
     border-radius: 10px;
 }
 #internal_nav .blurb {
-    margin: 30px 10%;
-    font-size: 1.1em;
+    text-align: center;
+    margin: 30px 30%;
+    font-size: 1.3em;
+    width: 50%;
 }
 .link a {
     font-weight: bold;
