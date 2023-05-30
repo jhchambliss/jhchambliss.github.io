@@ -219,13 +219,12 @@ a.connect {
 
 /* ------------EMAIL RESPONSE --------------- */
 .response .link {
-    display: flex;
     background-color: #ACC1C1;
-/*     margin: 0 10em;
-    padding: .2em .5em; */
+    padding: .2em;
+    font-aize: .3em;
+    width: 30%;
     border-radius: 10px;
     text-align: center;
-    justify-content: center;
     font-family: 'Harmattan', sans-serif;
 }
 .response .blurb {
